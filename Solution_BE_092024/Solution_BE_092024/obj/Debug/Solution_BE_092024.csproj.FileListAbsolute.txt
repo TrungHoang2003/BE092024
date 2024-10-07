@@ -1,0 +1,7 @@
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Solution_BE_092024\bin\Debug\Solution_BE_092024.exe.config
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Solution_BE_092024\bin\Debug\Solution_BE_092024.exe
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Solution_BE_092024\bin\Debug\Solution_BE_092024.pdb
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Solution_BE_092024\obj\Debug\Solution_BE_092024.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Solution_BE_092024\obj\Debug\Solution_BE_092024.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Solution_BE_092024\obj\Debug\Solution_BE_092024.exe
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Solution_BE_092024\obj\Debug\Solution_BE_092024.pdb

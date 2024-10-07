@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solution_BE_092024
+namespace Bai5
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hi");        }
+        }
     }
 }
