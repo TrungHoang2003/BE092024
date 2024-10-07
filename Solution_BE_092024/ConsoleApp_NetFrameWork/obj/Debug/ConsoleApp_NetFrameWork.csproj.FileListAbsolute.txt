@@ -1,7 +1,0 @@
-C:\Users\trung\source\repos\BE092024\Solution_BE_092024\ConsoleApp_NetFrameWork\bin\Debug\ConsoleApp_NetFrameWork.exe.config
-C:\Users\trung\source\repos\BE092024\Solution_BE_092024\ConsoleApp_NetFrameWork\bin\Debug\ConsoleApp_NetFrameWork.exe
-C:\Users\trung\source\repos\BE092024\Solution_BE_092024\ConsoleApp_NetFrameWork\bin\Debug\ConsoleApp_NetFrameWork.pdb
-C:\Users\trung\source\repos\BE092024\Solution_BE_092024\ConsoleApp_NetFrameWork\obj\Debug\ConsoleApp_NetFrameWork.csproj.AssemblyReference.cache
-C:\Users\trung\source\repos\BE092024\Solution_BE_092024\ConsoleApp_NetFrameWork\obj\Debug\ConsoleApp_NetFrameWork.csproj.CoreCompileInputs.cache
-C:\Users\trung\source\repos\BE092024\Solution_BE_092024\ConsoleApp_NetFrameWork\obj\Debug\ConsoleApp_NetFrameWork.exe
-C:\Users\trung\source\repos\BE092024\Solution_BE_092024\ConsoleApp_NetFrameWork\obj\Debug\ConsoleApp_NetFrameWork.pdb
