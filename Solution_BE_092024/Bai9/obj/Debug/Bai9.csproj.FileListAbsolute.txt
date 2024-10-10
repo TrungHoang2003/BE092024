@@ -1,0 +1,2 @@
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai9\obj\Debug\Bai9.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai9\obj\Debug\Bai9.csproj.CoreCompileInputs.cache

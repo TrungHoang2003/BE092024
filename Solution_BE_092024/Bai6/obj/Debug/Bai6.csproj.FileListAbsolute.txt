@@ -1,0 +1,15 @@
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\bin\Debug\Bai6.exe.config
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\bin\Debug\Bai6.exe
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\bin\Debug\Bai6.pdb
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\bin\Debug\Bai1.exe
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\bin\Debug\Common.dll
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\bin\Debug\DataAccess.dll
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\bin\Debug\Bai1.pdb
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\bin\Debug\Bai1.exe.config
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\bin\Debug\Common.pdb
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\bin\Debug\DataAccess.pdb
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\obj\Debug\Bai6.csproj.Up2Date
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\obj\Debug\Bai6.exe
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai6\obj\Debug\Bai6.pdb

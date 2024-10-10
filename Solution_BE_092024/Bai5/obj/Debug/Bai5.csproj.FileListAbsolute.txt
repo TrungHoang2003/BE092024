@@ -1,0 +1,12 @@
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai5\bin\Debug\Bai5.exe.config
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai5\bin\Debug\Bai5.exe
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai5\bin\Debug\Bai5.pdb
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai5\bin\Debug\Common.dll
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai5\bin\Debug\DataAccess.dll
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai5\bin\Debug\Common.pdb
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai5\bin\Debug\DataAccess.pdb
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai5\obj\Debug\Bai5.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai5\obj\Debug\Bai5.csproj.Up2Date
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai5\obj\Debug\Bai5.exe
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai5\obj\Debug\Bai5.pdb

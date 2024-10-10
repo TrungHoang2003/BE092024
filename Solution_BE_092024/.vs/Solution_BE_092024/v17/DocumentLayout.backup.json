@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{090E33F9-F62E-4ECF-84C7-79685880657A}|Bai4\\Bai4.csproj|c:\\users\\trung\\source\\repos\\be092024\\solution_be_092024\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{090E33F9-F62E-4ECF-84C7-79685880657A}|Bai4\\Bai4.csproj|solutionrelative:bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75767D42-143A-44A1-B18B-AA0A2413B826}|Bai9\\Bai9.csproj|c:\\users\\trung\\source\\repos\\be092024\\solution_be_092024\\bai9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75767D42-143A-44A1-B18B-AA0A2413B826}|Bai9\\Bai9.csproj|solutionrelative:bai9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52992657-B70C-45DA-A292-ED231E7AF93D}|Bai3\\Bai3.csproj|c:\\users\\trung\\source\\repos\\be092024\\solution_be_092024\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52992657-B70C-45DA-A292-ED231E7AF93D}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6380DB50-4ACF-4B66-A8EA-DB5222A7B6C6}|bai10\\bai10.csproj|c:\\users\\trung\\source\\repos\\be092024\\solution_be_092024\\bai10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6380DB50-4ACF-4B66-A8EA-DB5222A7B6C6}|bai10\\bai10.csproj|solutionrelative:bai10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B2E3B94-7FAC-466C-8A1A-829C6AEC5E29}|Bai2\\Bai2.csproj|c:\\users\\trung\\source\\repos\\be092024\\solution_be_092024\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B2E3B94-7FAC-466C-8A1A-829C6AEC5E29}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F037F828-4F91-4947-8E7D-00FECA0EC178}|Bai8\\Bai8.csproj|c:\\users\\trung\\source\\repos\\be092024\\solution_be_092024\\bai8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F037F828-4F91-4947-8E7D-00FECA0EC178}|Bai8\\Bai8.csproj|solutionrelative:bai8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144AC1F3-7225-4CA3-8250-94855322CF88}|Bai1\\Bai1.csproj|c:\\users\\trung\\source\\repos\\be092024\\solution_be_092024\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{144AC1F3-7225-4CA3-8250-94855322CF88}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74AA8536-6104-4FB7-AB68-456B358C7073}|Bai7\\Bai7.csproj|c:\\users\\trung\\source\\repos\\be092024\\solution_be_092024\\bai7\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AA8536-6104-4FB7-AB68-456B358C7073}|Bai7\\Bai7.csproj|solutionrelative:bai7\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE29193-981B-4B73-9D51-88E4F5B8B449}|Bai6\\Bai6.csproj|c:\\users\\trung\\source\\repos\\be092024\\solution_be_092024\\bai6\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE29193-981B-4B73-9D51-88E4F5B8B449}|Bai6\\Bai6.csproj|solutionrelative:bai6\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4CDF07-E143-4E39-942F-3EEA02CCB7E5}|Bai5\\Bai5.csproj|c:\\users\\trung\\source\\repos\\be092024\\solution_be_092024\\bai5\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4CDF07-E143-4E39-942F-3EEA02CCB7E5}|Bai5\\Bai5.csproj|solutionrelative:bai5\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C442EA4A-A369-4F4B-AB88-469D5A92E691}|Common\\Common.csproj|c:\\users\\trung\\source\\repos\\be092024\\solution_be_092024\\common\\validatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C442EA4A-A369-4F4B-AB88-469D5A92E691}|Common\\Common.csproj|solutionrelative:common\\validatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37F03B3-BF04-49F6-BBF3-36B7568C5BEA}|DataAccess\\DataAccess.csproj|c:\\users\\trung\\source\\repos\\be092024\\solution_be_092024\\dataaccess\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37F03B3-BF04-49F6-BBF3-36B7568C5BEA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +54,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai4\\Program.cs",
-              "RelativeDocumentMoniker": "Bai4\\Program.cs",
-              "ToolTip": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai4\\Program.cs*",
-              "RelativeToolTip": "Bai4\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\bai10\\Program.cs",
+              "RelativeDocumentMoniker": "bai10\\Program.cs",
+              "ToolTip": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\bai10\\Program.cs",
+              "RelativeToolTip": "bai10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T05:02:27.331Z",
+              "WhenOpened": "2024-10-10T07:15:48.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai3\\Program.cs",
-              "RelativeDocumentMoniker": "Bai3\\Program.cs",
-              "ToolTip": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai3\\Program.cs",
-              "RelativeToolTip": "Bai3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai9\\Program.cs",
+              "RelativeDocumentMoniker": "Bai9\\Program.cs",
+              "ToolTip": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai9\\Program.cs",
+              "RelativeToolTip": "Bai9\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwBYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T05:02:08.494Z",
+              "WhenOpened": "2024-10-10T07:09:21.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai2\\Program.cs",
-              "RelativeDocumentMoniker": "Bai2\\Program.cs",
-              "ToolTip": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai2\\Program.cs",
-              "RelativeToolTip": "Bai2\\Program.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAwwFUAAAA8AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai8\\Program.cs",
+              "RelativeDocumentMoniker": "Bai8\\Program.cs",
+              "ToolTip": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai8\\Program.cs",
+              "RelativeToolTip": "Bai8\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T05:00:15.008Z",
+              "WhenOpened": "2024-10-10T07:04:18.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai1\\Program.cs",
-              "RelativeDocumentMoniker": "Bai1\\Program.cs",
-              "ToolTip": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai1\\Program.cs",
-              "RelativeToolTip": "Bai1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Title": "Bai7.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai7\\Bai7.cs",
+              "RelativeDocumentMoniker": "Bai7\\Bai7.cs",
+              "ToolTip": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai7\\Bai7.cs",
+              "RelativeToolTip": "Bai7\\Bai7.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T04:57:58.973Z",
+              "WhenOpened": "2024-10-10T06:59:50.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai6.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai6\\Bai6.cs",
+              "RelativeDocumentMoniker": "Bai6\\Bai6.cs",
+              "ToolTip": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai6\\Bai6.cs",
+              "RelativeToolTip": "Bai6\\Bai6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:57:16.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\DataAccess\\Error.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Error.cs",
+              "ToolTip": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\DataAccess\\Error.cs",
+              "RelativeToolTip": "DataAccess\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:15:28.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidateData.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Common\\ValidateData.cs",
+              "RelativeDocumentMoniker": "Common\\ValidateData.cs",
+              "ToolTip": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Common\\ValidateData.cs",
+              "RelativeToolTip": "Common\\ValidateData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:15:17.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai5.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai5\\Bai5.cs",
+              "RelativeDocumentMoniker": "Bai5\\Bai5.cs",
+              "ToolTip": "C:\\Users\\trung\\source\\repos\\BE092024\\Solution_BE_092024\\Bai5\\Bai5.cs",
+              "RelativeToolTip": "Bai5\\Bai5.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:15:00.418Z",
               "EditorCaption": ""
             }
           ]

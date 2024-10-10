@@ -1,0 +1,9 @@
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Common\bin\Debug\Common.dll
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Common\bin\Debug\Common.pdb
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Common\bin\Debug\DataAccess.dll
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Common\bin\Debug\DataAccess.pdb
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Common\obj\Debug\Common.csproj.Up2Date
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Common\obj\Debug\Common.dll
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Common\obj\Debug\Common.pdb

@@ -10,6 +10,17 @@ namespace Solution_BE_092024
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hi");        }
+            for (int i = 0; i < 10; i++)
+            {
+                if (i % 2 ==0)
+                {
+                    continue;
+                }
+                Console.WriteLine(i);
+            }
+            Console.ReadKey();
+        }
     }
+
 }
+

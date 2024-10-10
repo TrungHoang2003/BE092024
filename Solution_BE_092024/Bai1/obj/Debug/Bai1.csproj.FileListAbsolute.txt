@@ -1,0 +1,7 @@
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai1\bin\Debug\Bai1.exe
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai1\bin\Debug\Bai1.pdb
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai1\obj\Debug\Bai1.exe
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\Bai1\obj\Debug\Bai1.pdb

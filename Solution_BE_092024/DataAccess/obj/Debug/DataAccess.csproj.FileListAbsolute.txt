@@ -1,0 +1,6 @@
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\trung\source\repos\BE092024\Solution_BE_092024\DataAccess\obj\Debug\DataAccess.pdb
